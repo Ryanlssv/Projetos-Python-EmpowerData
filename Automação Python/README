@@ -1,4 +1,5 @@
 # Automatização de Análise e Envio de E-mail
 
-Este script em Python utiliza a biblioteca yfinance para obter dados históricos de uma ação com base no código inserido pelo usuário. Ele analisa o histórico de fechamento dos últimos seis meses, gera um gráfico em linha e envia um e-mail com informações relevantes.
+Este script em Python utiliza a biblioteca yfinance para obter dados históricos de uma ação com base no código inserido pelo usuário. 
+Ele analisa o histórico de fechamento dos últimos seis meses, gera um gráfico em linha e envia um e-mail com informações relevantes.
 Este projeto é uma demonstração básica e pode ser personalizado para atender às necessidades específicas do usuário.
